@@ -1,0 +1,17 @@
+#toptitle {
+    background-color: green;
+    width: 400px;
+    padding: 15px;
+    float: left;
+    margin-left: 100px;
+}
+
+#move-right {
+    float: right;
+    
+}
+
+header {
+    margin-top: 30px;
+    margin-right: 50px;
+}
